@@ -1,7 +1,7 @@
 # Challenge Name: Kue
 
 ![Category: Website](https://img.shields.io/badge/Category-Website-lightgrey.svg)
-![Point: <Point Challenge>](https://img.shields.io/badge/Score-100-brightgreen.svg)
+![Point: 300](https://img.shields.io/badge/Score-300-brightgreen.svg)
 
 ## Description
 

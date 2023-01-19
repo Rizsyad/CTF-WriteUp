@@ -1,6 +1,6 @@
 # <CTF_NAME> CTF
 
-![logo ctf]()
+![banner ctf / logo ctf]()
 
 Writeups for <CTF_NAME> CTF: [website_name](http://www.ctflink.com)
 

@@ -23,3 +23,7 @@ curl -X POST --data "flag=1" -s https://web.ctf.rasyidmf.com/chal4/ | awk '/Flag
 ## Screen Shoot
 
 \-
+
+---
+
+[Back to home](/CTFR/Web/)

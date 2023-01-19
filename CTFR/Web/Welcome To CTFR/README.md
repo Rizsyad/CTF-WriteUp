@@ -20,3 +20,7 @@ ctrl+u / view-source, akan mendapatkan flagnya
 ![image1](images/image1.png)
 
 ![image2](images/image2.png)
+
+---
+
+[Back to home](/CTFR/Web/)

@@ -2,8 +2,8 @@
 
 To view samplers, check out the links:
 
-- [main.md]()
-- [chall.md]()
+- [main.md](main.md)
+- [chall.md](chall.md)
 
 ## Suggested Layout
 

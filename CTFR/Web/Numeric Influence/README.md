@@ -21,4 +21,4 @@ dari deskripsi soal dijelaskan hanya angka dan 5 angka diatas 1000 dibawah 9999,
 
 ---
 
-[Back to home](/CTFR/Web/)
+[Back to home](/CTFR/)

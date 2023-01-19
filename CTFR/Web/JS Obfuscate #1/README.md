@@ -52,4 +52,4 @@ dan dapatlah flagnya
 
 ---
 
-[Back to home](/CTFR/Web/)
+[Back to home](/CTFR/)

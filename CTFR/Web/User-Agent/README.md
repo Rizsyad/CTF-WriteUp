@@ -25,4 +25,4 @@ disini kita harus mengedit user-agentnya, disini saya menggunakan curl
 
 ---
 
-[Back to home](/CTFR/Web/)
+[Back to home](/CTFR/)

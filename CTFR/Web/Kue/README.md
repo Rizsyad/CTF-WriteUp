@@ -27,4 +27,4 @@ curl --head -s https://web.ctf.rasyidmf.com/chal3/ | awk '/set-cookie: flag=/{pr
 
 ---
 
-[Back to home](/CTFR/Web/)
+[Back to home](/CTFR/)

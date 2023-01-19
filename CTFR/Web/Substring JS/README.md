@@ -41,4 +41,4 @@ print(''.join(flag))
 
 ---
 
-[Back to home](/CTFR/Web/)
+[Back to home](/CTFR/)

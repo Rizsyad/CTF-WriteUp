@@ -23,4 +23,4 @@ ctrl+u / view-source, akan mendapatkan flagnya
 
 ---
 
-[Back to home](/CTFR/Web/)
+[Back to home](/CTFR/)

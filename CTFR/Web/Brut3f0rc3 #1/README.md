@@ -87,4 +87,4 @@ if __name__ == '__main__':
 
 ---
 
-[Back to home](/CTFR/Web/)
+[Back to home](/CTFR/)

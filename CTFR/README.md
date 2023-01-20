@@ -1,6 +1,6 @@
 # CTFR CTF
 
-![logo ctf](http://rasyidmf.com/img/ctf.png)
+![logo ctf](banner.png)
 
 Writeups for CTFR CTF: [CTFR](https://rasyidmf.com)
 

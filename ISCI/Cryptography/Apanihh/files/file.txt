@@ -1,0 +1,17 @@
+Expenses
+Snacks,$5.39
+Lodging,$2.05
+Bank Fees,$470.33
+Cooling,$6083.63
+Mortgage Interest,$65.41
+Depreciation,$900.05
+Electricity,$33.39
+Maintenance,$3.83
+Internet,$191.93
+Gas,$1.49
+Meals,$2287.36
+Insurance,$57.42
+Office Supplies,$9353.49
+Software Licenses,$7356.65
+Entertainment,$7.60
+Advertising,$1

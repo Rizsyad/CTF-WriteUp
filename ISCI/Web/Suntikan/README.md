@@ -22,4 +22,4 @@ dan saya mencoba dengan payload **'=''or'**, dan berhasil, ternyata tidak ada fl
 
 ---
 
-[Back to home](/CTFR/)
+[Back to home](/ISCI/)

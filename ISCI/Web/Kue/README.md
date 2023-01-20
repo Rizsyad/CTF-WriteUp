@@ -22,4 +22,4 @@ saya mencoba mengirim cookie **role=admin**, dan saya bertanya yang membuat soal
 
 ---
 
-[Back to home](/CTFR/)
+[Back to home](/ISCI/)

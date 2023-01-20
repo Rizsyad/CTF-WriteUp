@@ -21,4 +21,4 @@ ctrl+u / view-source, akan mendapatkan flagnya
 
 ---
 
-[Back to home](/CTFR/)
+[Back to home](/ISCI/)

@@ -31,4 +31,4 @@ echo }nakh414k_id_HaleT5oB,7aMA1Es{ICSI | rev
 
 ---
 
-[Back to home](/CTFR/)
+[Back to home](/ISCI/)

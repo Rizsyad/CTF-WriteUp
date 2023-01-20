@@ -18,7 +18,7 @@ saya mencoba mengirim cookie **role=admin**, dan saya bertanya yang membuat soal
 
 ## Screen Shoot
 
-![image1](images/image1.png)
+\-
 
 ---
 

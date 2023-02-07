@@ -1,7 +1,9 @@
 - [Home](/)
 
   - CTFR
+
     - [Home](/CTFR/)
+
     - Website
       - [Welcome To CTFR](CTFR/Web/Welcome%20To%20CTFR/)
       - [Substring JS](CTFR/Web/Substring%20JS/)
@@ -11,15 +13,19 @@
       - [JS Obfuscate #1](CTFR/Web/JS%20Obfuscate%20%231/)
       - [Numeric Influence](CTFR/Web/Numeric%20Influence/)
       - [Brut3f0rc3 #1](CTFR/Web/Brut3f0rc3%20%231/)
+
   - ISCI
 
     - [Home](/ISCI/)
+
     - Cryptography
+
       - [Secret](ISCI/Cryptography/Secret/)
       - [Upin Ipin](ISCI/Cryptography/Upin%20Ipin/)
       - [Roti Bakar](ISCI/Cryptography/Roti%20Bakar/)
       - [Apanihh](ISCI/Cryptography/Apanihh/)
       - Nomor
+
     - Forensic
 
       - [Image](ISCI/Forensic/Image/)
@@ -28,6 +34,7 @@
       - [Wallpaper](ISCI/Forensic/Wallpaper/)
 
     - Website
+
       - [CTRL + U](ISCI/Web/CTRL%20%2B%20U%20%3Av/)
       - [Find my robots](ISCI/Web/Find%20my%20robots/)
       - [Insp3ctor](ISCI/Web/Insp3ctor/)

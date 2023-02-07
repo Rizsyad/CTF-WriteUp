@@ -1,8 +1,8 @@
 - [Hone](/)
 
   - CTFR
+    - [Home](/CTFR/)
     - Website
-      - [Home](/CTFR/)
       - [Welcome To CTFR](CTFR/Web/Welcome%20To%20CTFR/)
       - [Substring JS](CTFR/Web/Substring%20JS/)
       - [Kue](CTFR/Web/Kue/)

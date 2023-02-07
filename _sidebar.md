@@ -1,4 +1,4 @@
-- [Hone](/)
+- [Home](/)
 
   - CTFR
     - [Home](/CTFR/)

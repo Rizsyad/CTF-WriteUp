@@ -13,6 +13,7 @@
       - [Brut3f0rc3 #1](CTFR/Web/Brut3f0rc3%20%231/)
   - ISCI
 
+    - [Home](/ISCI/)
     - Cryptography
       - [Secret](ISCI/Cryptography/Secret/)
       - [Upin Ipin](ISCI/Cryptography/Upin%20Ipin/)
@@ -22,7 +23,7 @@
     - Forensic
 
       - [Image](ISCI/Forensic/Image/)
-      - [Kucing](ISCI/Forensic/Kucing)
+      - [Kucing](ISCI/Forensic/Kucing/)
       - [Matrix](ISCI/Forensic/Matrix/)
       - [Wallpaper](ISCI/Forensic/Wallpaper/)
 

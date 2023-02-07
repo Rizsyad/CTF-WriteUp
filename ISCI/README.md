@@ -17,7 +17,7 @@ Writeups for ISCI CTF: [ISCI](http://isci-ctflab.rf.gd)
 - Forensic
 
   - [x] [Image](ISCI/Forensic/Image/)
-  - [x] [Kucing](ISCI/Forensic/Kucing)
+  - [x] [Kucing](ISCI/Forensic/Kucing/)
   - [x] [Matrix](ISCI/Forensic/Matrix/)
   - [x] [Wallpaper](ISCI/Forensic/Wallpaper/)
 

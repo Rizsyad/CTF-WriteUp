@@ -1,5 +1,20 @@
 - [Hone](/)
   - CTFR
     - [Home](/CTFR/)
-    - [Brut3f0rc3 #1](/CTFR/Web/Brut3f0rc3%20%231/)
-  - [ISCI](/ISCI/)
+    - [Welcome To CTFR](CTFR/Web/Welcome%20To%20CTFR/)
+    - [Substring JS](CTFR/Web/Substring%20JS/)
+    - [Kue](CTFR/Web/Kue/)
+    - [Post Practice](CTFR/Web/Post%20Practice/)
+    - [User-Agent](CTFR/Web/User-Agent/)
+    - [JS Obfuscate #1](CTFR/Web/JS%20Obfuscate%20%231/)
+    - [Numeric Influence](CTFR/Web/Numeric%20Influence/)
+    - [Brut3f0rc3 #1](CTFR/Web/Brut3f0rc3%20%231/)
+  - ISCI
+    - Web
+      - [CTRL + U](ISCI/Web/CTRL%20%2B%20U%20%3Av/)
+      - [Find my robots](ISCI/Web/Find%20my%20robots/)
+      - [Insp3ctor](ISCI/Web/Insp3ctor/)
+      - [Kue](ISCI/Web/Kue/)
+      - [Sulap](ISCI/Web/Sulap/)
+      - [Suntikan](ISCI/Web/Suntikan/)
+      - [TryToHack](ISCI/Web/TryToHack/)

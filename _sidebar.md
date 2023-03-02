@@ -1,5 +1,14 @@
 - [Home](/)
 
+  - 2023
+    - After Dark Winter
+      - [Home](/2023/After%20Dark%20Winter/)
+      - Website
+        - [Birthday](/2023/After%20Dark%20Winter/Web/Birthday/)
+        - [Mean Girls](/2023/After%20Dark%20Winter/Web/Mean%20Girls/)
+        - [What's on the Menu?](/2023/After%20Dark%20Winter/Web/What's%20on%20the%20Menu%3F/)
+        - [Simple Calculator](/2023/After%20Dark%20Winter/Web/Simple%20Calculator/)
+        - [No Fetch?!?!](/2023/After%20Dark%20Winter/Web/No%20Fetch%3F!%3F!/)
   - CTFR
 
     - [Home](/CTFR/)
